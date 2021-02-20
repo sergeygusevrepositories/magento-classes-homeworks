@@ -1,7 +1,7 @@
 <?php
 return [
     'backend' => [
-        'frontName' => 'admin_1lix00'
+        'frontName' => 'admin'
     ],
     'remote_storage' => [
         'driver' => 'file'
